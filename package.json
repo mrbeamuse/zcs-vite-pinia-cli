@@ -1,0 +1,10 @@
+{
+  "name": "generator-zcs-vue",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "zcs <w@zcs.me> (https://zcs.me)",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.0.1"
+  }
+}
