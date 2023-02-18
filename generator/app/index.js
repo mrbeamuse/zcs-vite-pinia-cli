@@ -9,6 +9,7 @@ module.exports = class extends Generator {
         message: "Your project name",
         default: this.appname,
       },
+
     ]).then((answers) => {
       this.answers = answers
     })
